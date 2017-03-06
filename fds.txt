@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 dsfsdfsdfds
 222 MASTER MASTEr+++
 Fsdfs
 GIHUb COMMIT
 LOCAL
+=======
+git branch -u origin/master - сделать upstream на него
+>>>>>>> origin/master
